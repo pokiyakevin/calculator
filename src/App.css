@@ -1,0 +1,19 @@
+.calc{
+  background-color: black;
+  width: 40%;
+  margin: auto;
+  text-align: center;
+  margin-top: 12px;
+}
+
+.disp input{
+  padding: 22px;
+  font-size: 22px;
+}
+
+.c-btn{
+  padding: 30px;
+  margin: 12px;
+  font-size: 22px;
+}
+

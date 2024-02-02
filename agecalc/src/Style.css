@@ -1,0 +1,40 @@
+
+
+.output h1 span {
+  color: hsl(259, 100%, 65%);
+}
+
+#submit img {
+  width: 60%;
+
+}
+
+#submit {
+  
+  width: 5em;
+  height: 5em;
+ 
+  border-radius: 50%;
+  border: none;
+
+}
+
+.submit-area {
+  margin-bottom: 1em;
+}
+
+.hr hr {
+  height: 1px;
+  border: none;
+  background-color: hsl(0, 0%, 86%);
+  margin-top: 5px;
+}
+
+#submit {
+  display: inline;
+  
+  float: none;
+  margin: auto;
+
+}
+

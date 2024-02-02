@@ -1,0 +1,32 @@
+.flex{
+    display: flex;
+    justify-content: center;
+}
+
+.age{
+    text-align: center;
+    margin: 22px 0;
+}
+
+
+
+.disp{
+    background-color:#000;
+    color: white;
+    text-align: center;
+    width: 60%;
+    margin: 0 auto;
+}
+
+.disp p{
+    margin: 30px 12px;
+}
+
+.calcu{
+    margin-bottom: 12px;
+}
+.calcu input{
+    padding: 12px 23px;
+    display: block;
+    margin: auto;
+}
